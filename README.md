@@ -1,4 +1,4 @@
-# Arduino Project-Light Sensor Controlled Mousee
+# Arduino Project-Light Sensor Controlled Mouse
 Using the sensors in an Arduino kit to create a device that moves the mouse on the screen. 
 
 ## What does it do? 
